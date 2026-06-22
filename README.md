@@ -105,19 +105,6 @@ pip install pandas openpyxl
 python main.py
 ```
 
----
-
-## Struktur Folder
-
-```text
-SISTEM MARKETPLACE SEDERHANA/
-│
-├── main.py
-├── produk.csv
-├── laporan_produk.xlsx
-├── README.md
-└── flowchart.png
-```
 
 ---
 

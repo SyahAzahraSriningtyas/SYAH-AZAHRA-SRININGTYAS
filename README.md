@@ -90,21 +90,6 @@ Menghapus data produk dari sistem.
 
 ---
 
-## Cara Menjalankan Program
-
-1. Pastikan Python sudah terinstal.
-2. Install library yang dibutuhkan:
-
-```bash
-pip install pandas openpyxl
-```
-
-3. Jalankan program:
-
-```bash
-python main.py
-```
-
 
 ---
 
